@@ -46,23 +46,12 @@ LLM Explanation Module (llm_model.py)
 ## 🖥️ Streamlit User Interface
 ![Streamlit UI](assets/img.png)
 
----
-
-## 📊 Prediction Result
-![Prediction Result](assets/prediction_result.png)
-
----
-
-## 📡 FastAPI Swagger Documentation
-![API Swagger](assets/api_swagger.png)
-
----
 
 # 🎥 Demo Video
 
 You can watch the full project demonstration here:
 
-👉 **[Watch Demo Video](assets/video.mp4)**
+👉 **[Watch Demo Video](https://youtu.be/f9aYPzvubKM)**
 
 The demo shows:
 - Running the FastAPI backend
